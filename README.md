@@ -1,0 +1,2 @@
+# Smart-Telephone-switchboard
+Após dominar o projeto Smart Bina Caller ID é preciso um novo horizonte para expandir os conhejcimentos em telefonia fixa e para tal o projeto Smart Telephone Switchboard é o ponto de entrada. Neste projeto discutiremos e iremos desenvolver uma pequena central telefônica que irá se integrar com o SmartBina CallerID e também com as linhas telefonicas comuns, este projeto pode também ser desenvolvido para quem não tem um sistema de telefonia fixa e deseja desenvolver o seu e assim continuar expandindo seus estudos sobre telefonia.
